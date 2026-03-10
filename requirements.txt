@@ -1,0 +1,8 @@
+numpy
+librosa
+matplotlib
+pydub
+joblib
+scikit-learn
+xgboost
+tqdm
