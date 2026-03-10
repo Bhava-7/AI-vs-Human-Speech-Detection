@@ -34,6 +34,8 @@ pip install -r requirements.txt
 The dataset used for training the model contains both human and AI-generated speech. You can find a similar dataset on Kaggle
 .If using your own dataset, ensure it follows the same structure.
 
+https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
+
 ## Usage
 
 1. Feature Extraction:
